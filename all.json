@@ -1,0 +1,17 @@
+[
+    {
+        "name":"hamid",
+        "age":26,
+        "likes":"burger"
+    },
+    {
+        "name":"otis",
+        "age":66,
+        "likes":"soup"
+    },
+    {
+        "name":"carol",
+        "age":49,
+        "likes":"to see the manager"
+    }
+]

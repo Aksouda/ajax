@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.message{
+    color: green;
+    font-size: x-large;
+    border: 1px solid blueviolet;
+    height: 300px;
+    width: 400px;
+}
+
+
+.allusers{
+    color: red;
+    text-transform: capitalize;
+}
+.allusers ul{
+    list-style: none;
+    border: 1px dashed pink;
+    margin: 30px 5px;
+}
+.allusers ul li {
+    margin: 20px 3px;
+    border-top: 2px solid black;
+}
+#card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dev{
+    height: 400px;
+    width: 400px;
+    background: rgb(80, 39, 119);
+    border: 1px solid rgba(0, 0, 0, 0.116);
+    box-shadow: 8px 7px 7px rgba(0, 0, 0, 0.26);
+    margin: 8px;
+}
+.dev img{
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+}
+.dev-info{
+    color: blanchedalmond;
+    text-transform: capitalize;
+    margin: 5px;
+}
